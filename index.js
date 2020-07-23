@@ -6,8 +6,8 @@ const append = [] ;
 const prepend = [] ;
 const removeLast = [];
 const removeFrist = [];
-pets.push("Odie");
-pets.unshift("Odie") ;
+append.push("Odie");
+prepend.unshift("Odie") ;
 
 pets.pop();
 pets.shift();
